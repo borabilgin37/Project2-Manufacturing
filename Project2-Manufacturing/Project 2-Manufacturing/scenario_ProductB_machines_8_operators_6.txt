@@ -1,0 +1,10 @@
+Resource Usage Times:
+machines: 0 time units
+operators: 0 time units
+Resource Waiting Times:
+machines: 0 time units
+machining: 2048 time units
+operators: 0 time units
+Total finished products: 0
+ProductA: 0 units
+ProductB: 0 units
